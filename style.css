@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Arimo|Cousine&display=swap');
+
+.wrapper {
+  width: 800px;
+  max-width: 90%;
+  margin: auto;
+}
+.heading {
+  font-family: 'Arimo', sans-serif bold;
+  font-size: 3rem;
+  text-align: left;
+}
+.sub-heading {
+  font-family: 'Cousine', sans-serif;
+  font-size: 1rem;
+  text-align: left;
+}
+.stats {
+  font-family: 'Arimo', sans-serif;
+  font-size: 20px;
+  text-align: left;
+}
+.button {
+  font-family: 'Cousine', sans-serif;
+  font-size: 5px;
+}
+.status {
+  font-family: 'Arimo', sans-serif;
+  font-size: 15px;
+  text-align: left;
+}
+
